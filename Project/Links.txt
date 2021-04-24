@@ -1,0 +1,15 @@
+https://scihub.copernicus.eu/userguide/ - full guide for all sats
+
+https://sentinel.esa.int/web/sentinel/missions/sentinel-2 - Sentinel-2 info
+
+https://custom-scripts.sentinel-hub.com/custom-scripts/sentinel-2/nbr/ - NBR-RAW (Normalized Burn Ratio)
+
+https://gisgeography.com/sentinel-2-bands-combinations/ - Sentinel 2 Bands and Combinations
+
+--
+
+https://docs.qgis.org/2.2/en/docs/training_manual/ - qgis manual
+
+https://github.com/sentinel-hub/sentinelhub-py - sentinel api
+
+https://www.youtube.com/watch?v=3kj8uoOlwjg - tutorial
